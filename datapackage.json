@@ -94,7 +94,7 @@
     {
       "name": "frankfurt-enriched",
       "format": "csv",
-      "path": "frankfurt-enriched.csv",
+      "path": "https://storage.openspending.org/frankfurt-enriched.csv",
       "mediatype": "text/csv",
       "bytes": 709577,
       "dialect": {
