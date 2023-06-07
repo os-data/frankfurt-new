@@ -90,6 +90,11 @@
   },
   "title": "frankfurt-new",
   "name": "frankfurt-new",
+  "countryCode": "DE",
+  "fiscalPeriod": {
+    "start": "2015-01-01",
+    "stop": "2020-12-31"
+  },
   "resources": [
     {
       "name": "frankfurt-enriched",
